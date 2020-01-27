@@ -1,1 +1,2 @@
 # challenge
+I have uploaded 2 different attempts at refactoring the "green_stocks". Neither of them run successfully, but I am struggling to debug. The 1st attempt is based on my initial interpretation of the instructions: I made seperate FOR loops for each of the volumes. The 2nd attempt is based on the simple addition of tickerIndex. I look forward to the feedback so that I can better understand this material.
